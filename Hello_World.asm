@@ -1,4 +1,4 @@
-title   Hello World Program                             (hello.asm)
+;title   Hello World Program                             (hello.asm)
 ; This program displays "Hello, World!"
 
 dosseg
